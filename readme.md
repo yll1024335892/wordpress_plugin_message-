@@ -3,13 +3,13 @@
 ### 将插件放到wp-content/plugins的文件夹中
 
 效果
-#
+
 ![](https://github.com/yll1024335892/wordpress_plugin_message-/blob/master/1.png)
-#
+
 ![](https://github.com/yll1024335892/wordpress_plugin_message-/blob/master/2.png)
-#
+
 ![](https://github.com/yll1024335892/wordpress_plugin_message-/blob/master/3.png)
-#
+
 
 ### 前端表单的处理
 ```
